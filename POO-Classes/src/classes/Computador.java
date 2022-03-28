@@ -1,6 +1,6 @@
 package classes;
 
-public class computador {
+public class Computador {
 	
 	String CPU;
 	String graphicsCard;
