@@ -10,6 +10,10 @@ public class principal {
 		
 		Cachorro dog1 = new Cachorro();
 		
+		dog1.setNome("Fernando");
+		
+		
+		
 		Cachorro dog2 = new Cachorro();
 		
 		Cachorro dog3 = new Cachorro();
