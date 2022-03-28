@@ -34,7 +34,7 @@ public class Cachorro {
 		this.corPrincipal = valor;
 	}
 	
-	public void corSecundaria(String valor) {
+	public void setCorSecundaria(String valor) {
 		this.corSecundaria = valor;
 	}
 	
