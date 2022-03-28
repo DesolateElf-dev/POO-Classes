@@ -52,15 +52,15 @@ public class Cachorro {
 		
 	
 	public static void comer() {
-		System.out.println("Comendo...");
+		System.out.print("Comendo...");
 	}
 	
 	public static void latir() {
-		System.out.println("Au au au");	
+		System.out.print("Latindo");	
 	}
 	
 	public static void brincar() {
-		System.out.println("Brincando...");		
+		System.out.print("Brincando...");		
 	}
 
 }

@@ -63,7 +63,7 @@ public class Carro {
 	}
 	
 	public static void acelerar() {
-		System.out.println("Äcelerando");
+		System.out.println("Acelerando");
 	}
 	
 	public static void freiar() {
