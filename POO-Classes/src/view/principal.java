@@ -2,6 +2,7 @@ package view;
 
 import classes.Cachorro;
 import classes.Carro;
+import classes.Computador;
 
 public class principal {
 
