@@ -2,13 +2,6 @@ package classes;
 
 public class Cachorro {
 	
-	private String nome;
-	private String raca;
-	private String corPrincipal;
-	private String corSecundaria;
-	
-	private int idade;
-	
 	public String getNome(){
 		return this.nome;
 	}
@@ -45,10 +38,18 @@ public class Cachorro {
 		this.corSecundaria = valor;
 	}
 	
-	public void setNome(int valor) {
+	public void setIdade(int valor) {
 		this.idade = valor;
 	}
 	
+	
+	private String nome;
+	private String raca;
+	private String corPrincipal;
+	private String corSecundaria;
+	
+	private int idade;
+		
 	
 	public static void comer() {
 		System.out.println("Comendo...");
