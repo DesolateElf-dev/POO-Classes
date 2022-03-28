@@ -19,7 +19,11 @@ public class principal {
 		
 		Carro car3 = new Carro();
 		
+		Computador pc01 = new Computador();
 		
+		Computador pc02 = new Computador();
+		
+		Computador pc03 = new Computador();
 		
 
 	}
